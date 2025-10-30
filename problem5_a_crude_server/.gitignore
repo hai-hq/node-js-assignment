@@ -1,0 +1,17 @@
+node_modules/
+dist/
+*.sqlite
+*.sqlite3
+.env
+.DS_Store
+*.log
+
+# Test coverage
+coverage/
+*.lcov
+.nyc_output/
+
+# Test files
+*.test.js
+*.spec.js
+
